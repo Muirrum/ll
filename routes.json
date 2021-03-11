@@ -19,5 +19,12 @@
     "description": "Newer projects",
     "public": true,
     "url": "https://sr.ht/~muirrum"
+  },
+  {
+    "name": "ob",
+    "title": "Old Blog",
+    "description": "Old blog",
+    "public": true,
+    "url": "https://devosmium.xyz/blog/"
   }
 ]
