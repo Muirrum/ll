@@ -2,22 +2,22 @@
   {
     "name": "g",
     "title": "Github",
-    "description": "All of my open-source and personal work",
+    "description": "Mostly archived code and other open source projects",
     "public": true,
-    "url": "https://github.com/rishiosaur"
+    "url": "https://github.com/Muirrum"
   },
   {
-    "name": "t",
-    "title": "Twitter",
-    "description": "Thoughts, analogies, and just all-around me being me.",
+    "name": "mstd",
+    "title": "Mastodon",
+    "description": "Blog announcements and others",
     "public": true,
-    "url": "https://twitter.com/rishiosaur"
+    "url": "https://lgbt.io/@muirrum"
   },
   {
-    "name": "i",
-    "title": "Instagram",
-    "description": "Posts, features, and pictures!",
+    "name": "srht",
+    "title": "Sourcehut",
+    "description": "Newer projects",
     "public": true,
-    "url": "https://instagram.com/rishi.cx"
+    "url": "https://sr.ht/~muirrum"
   }
 ]
